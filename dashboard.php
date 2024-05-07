@@ -164,7 +164,7 @@
                         </a>
                         <ul class="menu-sub">
                             <li class="menu-item">
-                                <a href="pages-account-settings-account.html" class="menu-link">
+                                <a href="pages-account-settings-account.php" class="menu-link">
                                     <div data-i18n="Account">Account</div>
                                 </a>
                             </li>
